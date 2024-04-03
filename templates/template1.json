@@ -1,0 +1,223 @@
+{
+  "sections": [
+    {
+      "name": "main",
+      "title": "Основные переменные",
+      "variables": [
+        {
+          "name": "h1_title",
+          "label": "Заголовок H1",
+          "type": "textarea"
+        },
+        {
+          "name": "short_description",
+          "label": "Краткое описание",
+          "type": "textarea"
+        },
+        {
+          "name": "leisure_title",
+          "label": "Заголовок перед картинками с отдыхом",
+          "type": "textarea"
+        },
+        {
+          "name": "projects_title",
+          "label": "Заголовок перед картинками с проектами",
+          "type": "textarea"
+        }
+      ]
+    },
+    {
+      "name": "object_data",
+      "title": "Сдача и данные объекта",
+      "variables": [
+        {
+          "name": "year",
+          "label": "Дата (год)",
+          "type": "textarea"
+        },
+        {
+          "name": "quarter",
+          "label": "Квартал",
+          "type": "textarea"
+        },
+        {
+          "name": "size_sq_ft",
+          "label": "Размер (sq. ft.)",
+          "type": "textarea"
+        },
+        {
+          "name": "size_sq_m",
+          "label": "Размер (м²)",
+          "type": "textarea"
+        },
+        {
+          "name": "price_aed",
+          "label": "Стоимость AED",
+          "type": "textarea"
+        },
+        {
+          "name": "price_usd",
+          "label": "Стоимость USD",
+          "type": "textarea"
+        },
+        {
+          "name": "expert_comment",
+          "label": "Комментарий эксперта",
+          "type": "textarea"
+        }
+      ]
+    },
+    {
+      "name": "layouts_prices",
+      "title": "Планировки и цены",
+      "variables": [
+        {
+          "name": "layout_1_name",
+          "label": "Название (Планировка 1)",
+          "type": "textarea"
+        },
+        {
+          "name": "layout_1_price",
+          "label": "Цена (Планировка 1)",
+          "type": "textarea"
+        },
+        {
+          "name": "layout_1_cost",
+          "label": "Стоимость (Планировка 1)",
+          "type": "textarea"
+        },
+        {
+          "name": "layout_1_size",
+          "label": "Размер (Планировка 1)",
+          "type": "textarea"
+        },
+        {
+          "name": "layout_2_name",
+          "label": "Название (Планировка 2)",
+          "type": "textarea"
+        },
+        {
+          "name": "layout_2_price",
+          "label": "Цена (Планировка 2)",
+          "type": "textarea"
+        },
+        {
+          "name": "layout_2_cost",
+          "label": "Стоимость (Планировка 2)",
+          "type": "textarea"
+        },
+        {
+          "name": "layout_2_size",
+          "label": "Размер (Планировка 2)",
+          "type": "textarea"
+        },
+        {
+          "name": "layout_3_name",
+          "label": "Название (Планировка 3)",
+          "type": "textarea"
+        },
+        {
+          "name": "layout_3_price",
+          "label": "Цена (Планировка 3)",
+          "type": "textarea"
+        },
+        {
+          "name": "layout_3_cost",
+          "label": "Стоимость (Планировка 3)",
+          "type": "textarea"
+        },
+        {
+          "name": "layout_3_size",
+          "label": "Размер (Планировка 3)",
+          "type": "textarea"
+        }
+      ]
+    },
+    {
+      "name": "facts",
+      "title": "8 фактов",
+      "variables": [
+        {
+          "name": "fact_1_title",
+          "label": "Заголовок (Факт 1)",
+          "type": "textarea"
+        },
+        {
+          "name": "fact_1_description",
+          "label": "Описание (Факт 1)",
+          "type": "textarea"
+        },
+        {
+          "name": "fact_2_title",
+          "label": "Заголовок (Факт 2)",
+          "type": "textarea"
+        },
+        {
+          "name": "fact_2_description",
+          "label": "Описание (Факт 2)",
+          "type": "textarea"
+        },
+        {
+          "name": "fact_3_title",
+          "label": "Заголовок (Факт 3)",
+          "type": "textarea"
+        },
+        {
+          "name": "fact_3_description",
+          "label": "Описание (Факт 3)",
+          "type": "textarea"
+        },
+        {
+          "name": "fact_4_title",
+          "label": "Заголовок (Факт 4)",
+          "type": "textarea"
+        },
+        {
+          "name": "fact_4_description",
+          "label": "Описание (Факт 4)",
+          "type": "textarea"
+        },
+        {
+          "name": "fact_5_title",
+          "label": "Заголовок (Факт 5)",
+          "type": "textarea"
+        },
+        {
+          "name": "fact_5_description",
+          "label": "Описание (Факт 5)",
+          "type": "textarea"
+        },
+        {
+          "name": "fact_6_title",
+          "label": "Заголовок (Факт 6)",
+          "type": "textarea"
+        },
+        {
+          "name": "fact_6_description",
+          "label": "Описание (Факт 6)",
+          "type": "textarea"
+        },
+        {
+          "name": "fact_7_title",
+          "label": "Заголовок (Факт 7)",
+          "type": "textarea"
+        },
+        {
+          "name": "fact_7_description",
+          "label": "Описание (Факт 7)",
+          "type": "textarea"
+        },
+        {
+          "name": "fact_8_title",
+          "label": "Заголовок (Факт 8)",
+          "type": "textarea"
+        },
+        {
+          "name": "fact_8_description",
+          "label": "Описание (Факт 8)",
+          "type": "textarea"
+        }
+      ]
+    }
+  ]
+}
