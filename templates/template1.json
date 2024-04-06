@@ -15,6 +15,11 @@
           "type": "textarea"
         },
         {
+          "name": "site_name",
+          "label": "Наименование сайта",
+          "type": "textarea"
+        },
+        {
           "name": "h1_title",
           "label": "Заголовок H1",
           "type": "textarea"
